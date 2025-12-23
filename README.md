@@ -7,7 +7,7 @@ Lithography hotspots are critical manufacturing defects in advanced ICs that red
 
 ## Overview
 
-As technology nodes shrink, lithography-induced defects become harder to catch with traditional simulation and rule-based approaches, which are often slow and compute-heavy.
+As technology nodes shrink, lithography-induced defects become harder to catch with traditional simulation and traditional approaches, which are often slow and compute-heavy.
 This project proposes an ML-based hotspot detection workflow that processes large PNG layout datasets in batches, extracts rich geometric and spatial features, and trains an ensemble classifier optimized for high hotspot recall under severe class imbalance.
 
 **Key goals:**
